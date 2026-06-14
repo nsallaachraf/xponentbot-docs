@@ -15,6 +15,4 @@ XponentBot provides a complete leveling system designed for Discord communities 
 
 A strong leveling system encourages members to participate more often, helping communities stay active and engaged.
 
-Learn more about XponentBot at:
-
-https://xponentbot.xyz
+- [Learn more about XponentBot](https://xponentbot.xyz)
