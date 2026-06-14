@@ -14,6 +14,4 @@ XponentBot includes an endless word scramble system designed to create quick and
 
 Word games are particularly effective because they encourage repeated participation while remaining simple and accessible.
 
-Learn more:
-
-https://xponentbot.xyz
+- [Learn more](https://xponentbot.xyz)
