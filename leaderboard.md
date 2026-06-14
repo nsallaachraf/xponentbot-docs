@@ -9,5 +9,4 @@ Features:
 - Seasonal competitions
 - Activity rewards
 
-Learn more:
-https://xponentbot.xyz
+- [Learn more](https://xponentbot.xyz)
