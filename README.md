@@ -1,5 +1,5 @@
 # XponentBot
-![Xponent](logo.png)
+
 The Ultimate Discord Leveling & Mini-Games Bot
 
 ## Features
