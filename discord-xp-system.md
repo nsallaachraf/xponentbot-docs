@@ -13,6 +13,4 @@ Benefits include:
 
 XP systems have become one of the most popular methods for growing Discord servers.
 
-Website:
-
-https://xponentbot.xyz
+- [Website](https://xponentbot.xyz)
