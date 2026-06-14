@@ -9,5 +9,5 @@ Features:
 - Cooldowns
 - Progression system
 
-Website:
-https://xponentbot.xyz
+## Link
+- [Website](https://xponentbot.xyz)
