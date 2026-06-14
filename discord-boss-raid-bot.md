@@ -14,6 +14,5 @@ XponentBot introduces automated boss raid events that encourage teamwork and lon
 
 Boss raids help transform a standard Discord server into an interactive gaming community.
 
-Website:
-
-https://xponentbot.xyz
+## Link
+- [Website](https://xponentbot.xyz)
