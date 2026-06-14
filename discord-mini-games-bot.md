@@ -12,6 +12,4 @@ XponentBot combines several engagement systems into one platform, including:
 
 Instead of managing multiple bots, communities can use a single solution for engagement and progression.
 
-Learn more at:
-
-https://xponentbot.xyz
+- [Learn more](https://xponentbot.xyz)
