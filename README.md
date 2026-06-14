@@ -1,4 +1,4 @@
-# XponentBot
+# XponentBot - Discord Leveling & Mini-Games Bot
 ![XponentBot](logo.png)
 
 The Ultimate Discord Leveling & Mini-Games Bot
@@ -22,8 +22,6 @@ The Ultimate Discord Leveling & Mini-Games Bot
 
 ## Links
 
-🌐 Website: https://xponentbot.xyz
-
-🤖 Invite Bot: https://xponentbot.xyz/invite
-
-📊 Dashboard: https://xponentbot.xyz/dashboard
+- [Website](https://xponentbot.xyz)
+- [Invite Bot](https://xponentbot.xyz/invite)
+- [Dashboard](https://xponentbot.xyz/dashboard)
