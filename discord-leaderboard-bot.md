@@ -14,6 +14,4 @@ XponentBot includes a powerful leaderboard system that tracks member activity an
 
 Server owners can use leaderboards to host giveaways, reward active members, and encourage participation.
 
-Visit XponentBot:
-
-https://xponentbot.xyz
+- [Visit XponentBot](https://xponentbot.xyz)
