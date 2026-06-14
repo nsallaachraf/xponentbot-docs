@@ -8,5 +8,4 @@ Benefits:
 - Increase activity
 - Fun daily challenges
 
-Visit:
-https://xponentbot.xyz
+[Visit](https://xponentbot.xyz)
