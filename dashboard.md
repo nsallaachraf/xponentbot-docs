@@ -23,9 +23,6 @@ Create beautiful custom rank cards for your community.
 View server activity and engagement metrics.
 
 ## Links
-
-🌐 Website: https://xponentbot.xyz
-
-📊 Dashboard: https://xponentbot.xyz/dashboard
-
-🤖 Invite Bot: https://xponentbot.xyz/invite
+- [Website](https://xponentbot.xyz)
+- [Invite Bot](https://xponentbot.xyz/invite)
+- [Dashboard](https://xponentbot.xyz/dashboard)
