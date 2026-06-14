@@ -14,6 +14,7 @@ The Ultimate Discord Leveling & Mini-Games Bot
 
 ## Documentation
 
+- [Commands](commands.md)
 - [Leaderboard](leaderboard.md)
 - [Boss Raids](boss-raids.md)
 - [Word Scrambles](word-scrambles.md)
