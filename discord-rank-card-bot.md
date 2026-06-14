@@ -11,6 +11,4 @@ XponentBot includes customizable rank cards that display:
 
 Server owners can create a more immersive experience while giving members a clear view of their progression.
 
-Discover XponentBot:
-
-https://xponentbot.xyz
+- [Discover XponentBot](https://xponentbot.xyz)
