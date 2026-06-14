@@ -15,5 +15,4 @@ XponentBot helps server owners implement all of these engagement strategies thro
 
 Features include leveling, leaderboards, boss raids, rank cards, and word scramble games.
 
-Learn more:
-- [Website](https://xponentbot.xyz)
+- [Learn more](https://xponentbot.xyz)
